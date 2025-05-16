@@ -6,7 +6,7 @@ Here's a before and after look at what this adblock list does:
 
 |Before|After|
 |---|---|
-|![image](https://github.com/user-attachments/assets/10e6ad71-76e8-4973-b373-3338209b1a2b)|![image](https://github.com/user-attachments/assets/5edc2cc7-ae2c-46ba-a64d-dd37d07d7c2c)|
+|![image](https://github.com/user-attachments/assets/e44ce478-72bd-44ce-b222-e951583c1f43)|![image](https://github.com/user-attachments/assets/5edc2cc7-ae2c-46ba-a64d-dd37d07d7c2c)|
 
 To add this list to uBlock Origin, open uBlock's settings page and click on the "Filter lists" tab.  At the bottom of the page, expand the "Custom" tree and check the "Import..." box.  Then, add this URL to the textarea that appears:
 
