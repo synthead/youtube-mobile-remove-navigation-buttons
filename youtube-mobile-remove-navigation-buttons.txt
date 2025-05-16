@@ -1,0 +1,7 @@
+! Title: Remove YouTube mobile navigation buttons
+! Description: Remove the "previous" and "next" buttons that appear when a video is tapped or paused.
+! Homepage: https://github.com/synthead/youtube-mobile-remove-navigation-buttons
+
+! Remove navigation buttons next to the play/pause button.
+m.youtube.com##player-middle-controls button[aria-label='Previous video']:nth-ancestor(1)
+m.youtube.com##player-middle-controls button[aria-label='Next video']:nth-ancestor(1)
